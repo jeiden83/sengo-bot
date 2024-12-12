@@ -1,0 +1,9 @@
+{
+	"OSU_CLIENT_SECRET" : "aqui va el token del cliente secreto de la api de osu",
+	"OSU_CLIENT_ID" : 0,
+	"TOKEN" : "aqui el token de la api de osu",
+	"BOT_PREFIX" : "el prefijo del bot",
+	"CLIENT_ID" : "ID del cliente del bot",
+	"DB_ADMIN": "nombre de usuario de la db de mongo",
+    "DB_PASS": "pass de la db de mongo"
+}
