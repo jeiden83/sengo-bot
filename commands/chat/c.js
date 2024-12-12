@@ -5,6 +5,8 @@ const config = require("../../config.json");
 const axios = require('axios');
 
 async function doEmbed(message, user_scores){
+
+	// nombre emote: id en el bot en el discord developer
     const emoji_mods = {
         'TD': '1292664385348571187',
         'SO': '1292664378017189949',
