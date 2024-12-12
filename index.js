@@ -19,6 +19,9 @@ async function main(reload) {
 }
 main();
 
+// not working so well tho
+// logra recargar una vez pero dos veces se duplica
+// a revisar luego
 async function setupCommandLineInterface() {
     const rl = readline.createInterface({
         input: process.stdin,
